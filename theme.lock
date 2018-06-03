@@ -90,7 +90,7 @@ config/settings_schema.json:
 layout/password.liquid:
   development: 2018-05-24T17:49:52+01:00   0694857b998a849233634f999d53281e
 layout/theme.liquid:
-  development: 2018-05-24T17:49:52+01:00   cd6e9b9e30adb2a7c7eb9f1a132d9525
+  development: 2018-06-03T21:56:33+01:00   7b072ca300067bd2efa7d0a008de6f48
 locales/en.default.json:
   development: 2018-05-24T17:49:52+01:00   c3c491f1cc6df9e6b8a08a2248475712
 sections/about.liquid:
@@ -148,7 +148,7 @@ sections/password-header.liquid:
 sections/product-brand-features.liquid:
   development: 2018-05-24T17:49:47+01:00   ce5eb8593345531de87b6e27d7c541f8
 sections/product-template.liquid:
-  development: 2018-06-03T14:31:30+01:00   f30614fcbcee446e3ff8d3b56ab40d52
+  development: 2018-06-03T22:44:43+01:00   d65884992529a1255fcd4faf2a1d6d24
 sections/search-template.liquid:
   development: 2018-05-24T17:49:47+01:00   9102a544e55fad6f21794d10ba842fb2
 snippets/ajax-cart-template.liquid:

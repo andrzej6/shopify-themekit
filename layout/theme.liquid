@@ -79,6 +79,8 @@
 <body id="{{ page_title | handle }}" class="{% if customer %}customer-logged-in {% endif %}template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }}" >
   {% section 'header' %}
 
+
+
   <div id="PageContainer" class="is-moved-by-drawer">
     <main class="wrapper main-content {%unless template == "index" or template == "collection"%}mobile-main{%endunless%} {%if template == "cart"%} {%if cart.item_count > 0 %} mobile-main-cart {%endif%} {%endif%}">
       {{ content_for_layout }}
