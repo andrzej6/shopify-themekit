@@ -84,7 +84,7 @@ assets/theme.scss.liquid:
 assets/timber.scss.liquid:
   development: 2018-05-24T17:49:52+01:00   b0731cc1f171d3b7cb2f934ad426f9f7
 config/settings_data.json:
-  development: 2018-06-03T17:12:44+01:00   db7b163822b2ccea82afce6617d39a94
+  development: 2018-06-03T22:59:33+01:00   8f3a73f7abf9b3787f8047807c705763
 config/settings_schema.json:
   development: 2018-05-24T17:49:54+01:00   ff72f3d8431e641763db7b4d44a1242b
 layout/password.liquid:
@@ -148,7 +148,7 @@ sections/password-header.liquid:
 sections/product-brand-features.liquid:
   development: 2018-05-24T17:49:47+01:00   ce5eb8593345531de87b6e27d7c541f8
 sections/product-template.liquid:
-  development: 2018-06-03T22:44:43+01:00   d65884992529a1255fcd4faf2a1d6d24
+  development: 2018-06-03T22:56:44+01:00   8c7b95ecc7185f0b09dd7b58c41cac76
 sections/search-template.liquid:
   development: 2018-05-24T17:49:47+01:00   9102a544e55fad6f21794d10ba842fb2
 snippets/ajax-cart-template.liquid:
@@ -202,7 +202,7 @@ snippets/oldIE-js.liquid:
 snippets/placeholder-images.liquid:
   development: 2018-05-24T17:49:53+01:00   3b63816fc76e0d09c1fb2b73191d9340
 snippets/product-description.liquid:
-  development: 2018-06-03T12:48:17+01:00   e0c3e727777da121420c8f5d8d1bff66
+  development: 2018-06-03T23:04:32+01:00   d1f214f5e242b1622296532701af57e2
 snippets/product-details.liquid:
   development: 2018-05-24T17:49:53+01:00   f95aa2936d4f3c4450679865712983d1
 snippets/product-grid-item.liquid:
