@@ -6,7 +6,7 @@ assets/ajax-loader.gif:
 assets/banner-placeholder.png:
   development: 2018-05-24T17:49:47+01:00   474d85fd20e1fb765a502f2bd036c26e
 assets/down-arrow.svg:
-  development: 2018-05-24T17:49:47+01:00   5fac5b530659adac540971d34f2c9581
+  development: 2018-06-10T10:45:43+01:00   5fac5b530659adac540971d34f2c9581
 assets/facebook.svg.liquid:
   development: 2018-05-24T17:49:47+01:00   2ceb6a2c926d5717ae6b3c9b943b915a
 assets/font-awesome.min.css:
@@ -40,7 +40,7 @@ assets/icon_soldout_badge.svg:
 assets/icons.eot:
   development: 2018-05-24T17:49:49+01:00   53fba80ca7b976c8e8f36239248d1428
 assets/icons.json:
-  development: 2018-05-24T17:49:49+01:00   467ae0d37b967d5cd7b6ab2d6c562a95
+  development: 2018-06-10T10:46:34+01:00   467ae0d37b967d5cd7b6ab2d6c562a95
 assets/icons.svg:
   development: 2018-05-24T17:49:49+01:00   f8dcdc808ce83807f38d405e72ef7b61
 assets/icons.ttf:
@@ -78,7 +78,7 @@ assets/temp-product2.jpg:
 assets/theme-IE.scss.liquid:
   development: 2018-05-24T17:49:51+01:00   1bfd184079984f1cec90e24be9693bf6
 assets/theme.js.liquid:
-  development: 2018-05-24T17:49:51+01:00   4d4a3d3b959db5ae456cdbc184ec44de
+  development: 2018-06-10T10:46:40+01:00   4d4a3d3b959db5ae456cdbc184ec44de
 assets/theme.scss.liquid:
   development: 2018-05-24T17:49:52+01:00   806a55b8b48dfe2cd4006e2525025397
 assets/timber.scss.liquid:
@@ -86,13 +86,13 @@ assets/timber.scss.liquid:
 config/settings_data.json:
   development: 2018-06-03T22:59:33+01:00   8f3a73f7abf9b3787f8047807c705763
 config/settings_schema.json:
-  development: 2018-05-24T17:49:54+01:00   ff72f3d8431e641763db7b4d44a1242b
+  development: 2018-06-10T10:46:21+01:00   ff72f3d8431e641763db7b4d44a1242b
 layout/password.liquid:
   development: 2018-05-24T17:49:52+01:00   0694857b998a849233634f999d53281e
 layout/theme.liquid:
   development: 2018-06-03T21:56:33+01:00   7b072ca300067bd2efa7d0a008de6f48
 locales/en.default.json:
-  development: 2018-05-24T17:49:52+01:00   c3c491f1cc6df9e6b8a08a2248475712
+  development: 2018-06-10T10:46:26+01:00   c3c491f1cc6df9e6b8a08a2248475712
 sections/about.liquid:
   development: 2018-05-24T17:49:45+01:00   c2c2a545b4cbe7a1b38b6d299070b645
 sections/article.liquid:
@@ -116,7 +116,7 @@ sections/header.liquid:
 sections/home-banner1.liquid:
   development: 2018-05-24T17:49:46+01:00   b251052e1cad60c9e805b8f727d8b4db
 sections/home-blog.liquid:
-  development: 2018-05-24T17:49:46+01:00   7f4b67b1f3e17dedaabf8336cd671986
+  development: 2018-06-10T10:45:43+01:00   7f4b67b1f3e17dedaabf8336cd671986
 sections/home-collection-list.liquid:
   development: 2018-05-24T17:49:46+01:00   e0bc351fdfcbc8879fbfd479da3f73f8
 sections/home-featured-collection.liquid:
@@ -140,7 +140,7 @@ sections/list-collection-2.liquid:
 sections/list-collection-5.liquid:
   development: 2018-05-24T17:49:46+01:00   0ee8aa117ba4f915af5baf349923eccf
 sections/map.liquid:
-  development: 2018-05-24T17:49:46+01:00   5268ffd887ce3e313b2f0750497f5444
+  development: 2018-06-10T10:46:28+01:00   5268ffd887ce3e313b2f0750497f5444
 sections/password-content.liquid:
   development: 2018-05-24T17:49:46+01:00   219ee8ce40a7886699e8a38eae1c8b0a
 sections/password-header.liquid:
@@ -148,7 +148,7 @@ sections/password-header.liquid:
 sections/product-brand-features.liquid:
   development: 2018-05-24T17:49:47+01:00   ce5eb8593345531de87b6e27d7c541f8
 sections/product-template.liquid:
-  development: 2018-06-08T22:45:52+01:00   be7fb9151ecdf6a900597a8d4cb824a3
+  development: 2018-06-10T11:31:56+01:00   538ea0cd57e0c1f5007749eaa4c61bf7
 sections/search-template.liquid:
   development: 2018-05-24T17:49:47+01:00   9102a544e55fad6f21794d10ba842fb2
 snippets/ajax-cart-template.liquid:
@@ -176,7 +176,7 @@ snippets/google-fonts.liquid:
 snippets/grid-rework.liquid:
   development: 2018-05-24T17:49:52+01:00   8f6bfdc81de93c7fe6b5efcd47198893
 snippets/home-blog-tab-content.liquid:
-  development: 2018-05-24T17:49:52+01:00   a51d218c744586344a6c0860144b4323
+  development: 2018-06-10T10:46:41+01:00   a51d218c744586344a6c0860144b4323
 snippets/home-featured-products-form.liquid:
   development: 2018-05-24T17:49:52+01:00   6d876c49ebb9a62eb4d323d07e5c839e
 snippets/icon-pin.liquid:
