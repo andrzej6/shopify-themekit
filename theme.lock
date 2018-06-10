@@ -148,7 +148,7 @@ sections/password-header.liquid:
 sections/product-brand-features.liquid:
   development: 2018-05-24T17:49:47+01:00   ce5eb8593345531de87b6e27d7c541f8
 sections/product-template.liquid:
-  development: 2018-06-10T12:21:06+01:00   08ac99dd095c43ec973c5c485789f380
+  development: 2018-06-10T13:11:10+01:00   ffebb84b114f0faa9634f483f3b40e86
 sections/search-template.liquid:
   development: 2018-05-24T17:49:47+01:00   9102a544e55fad6f21794d10ba842fb2
 snippets/ajax-cart-template.liquid:
